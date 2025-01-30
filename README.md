@@ -1,14 +1,14 @@
-**🚀 Sathvika's Portfolio**
+###🚀 Sathvika's Portfolio**
 
-WELCOME! To my Portfolio
-
-
-**📚 Table of Contents**
+###WELCOME! To my Portfolio
 
 
+###📚 Table of Contents
 
 
-**Python**
+
+
+###Python
 
 Project Title: Super Store Analysis
 
