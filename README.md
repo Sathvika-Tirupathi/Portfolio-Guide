@@ -9,7 +9,7 @@
 - SQl
 - Data Engineering
 - Tableau
-- 
+
 ### Python
 
 Project Title: Super Store Analysis
