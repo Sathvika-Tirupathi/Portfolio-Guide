@@ -1,6 +1,5 @@
 🚀 Sathvika's Portfolio
-
---Welcome to My Data Portfolio!
+WELCOME! To my Portfolio
 
 
 📚 Table of Contents
