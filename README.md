@@ -6,7 +6,7 @@
 ### 📚 Table of Contents
 
 - Python
-- SQl
+- SQL
 - Data Engineering
 - Tableau
 
