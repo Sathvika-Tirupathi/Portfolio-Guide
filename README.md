@@ -1,6 +1,6 @@
-🚀 Sathvika's Portfolio
+**🚀 Sathvika's Portfolio**
 
 WELCOME! To my Portfolio
 
 
-📚 Table of Contents
+**📚 Table of Contents**
